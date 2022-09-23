@@ -1,1 +1,1 @@
-Non empty readme
+Not a coder, yet.
